@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongTransClient", "SongTransClient\SongTransClient.csproj", "{AD51E99E-5E6E-4819-ADD2-F633ED51229F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongTransAPI", "SongTransAPI\SongTransAPI.csproj", "{DA3D4EC7-1531-4651-AFBB-B9FB266D0606}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CAE4A3AF-7400-4F5E-A90C-A85E6A393205}"
+	ProjectSection(SolutionItems) = preProject
+		compose.yaml = compose.yaml
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD51E99E-5E6E-4819-ADD2-F633ED51229F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD51E99E-5E6E-4819-ADD2-F633ED51229F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD51E99E-5E6E-4819-ADD2-F633ED51229F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD51E99E-5E6E-4819-ADD2-F633ED51229F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA3D4EC7-1531-4651-AFBB-B9FB266D0606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA3D4EC7-1531-4651-AFBB-B9FB266D0606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA3D4EC7-1531-4651-AFBB-B9FB266D0606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA3D4EC7-1531-4651-AFBB-B9FB266D0606}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
